@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "788529321755",
+    "project_id": "kirana-ai-8dab2",
+    "storage_bucket": "kirana-ai-8dab2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788529321755:android:19a7ef3d974f127e2fe5be",
+        "android_client_info": {
+          "package_name": "com.kiranaai.kirana_ai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "788529321755-m6avmulrarc8aablca3qbd1h3el8n9or.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kiranaai.kirana_ai",
+            "certificate_hash": "03c81d0f8e7c110ec5e4421c4b41c142baa4ef5b"
+          }
+        },
+        {
+          "client_id": "788529321755-5jv4sjmd6ftelmg48ic171ekjskgog72.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2yHNcDHyUab2eO5e3vTiGAQjuxxGMYMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "788529321755-5jv4sjmd6ftelmg48ic171ekjskgog72.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "788529321755-s28rmfa4k3d932j0lfb29dt6ijbjscfh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kiranaai.kiranaAi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
