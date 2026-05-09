@@ -1,16 +1,56 @@
-# kirana_ai
+# Smart Kirana AI
 
-A new Flutter project.
+Smart Kirana AI is an AI-powered inventory management application built for small kirana (grocery) shops to simplify stock handling, reduce manual work, and improve inventory planning.
 
-## Getting Started
+The application allows shop owners to manage inventory using voice input, receive automatic low-stock alerts, and generate smart reorder suggestions using AI.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Voice-based inventory updates
+- AI-powered reorder quantity suggestions
+- Automatic low-stock notifications
+- WhatsApp reorder integration
+- Real-time inventory management
+- User-friendly Flutter interface
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## Tech Stack
+
+### Frontend
+- Flutter
+
+### State Management
+- Riverpod
+
+### Backend & Services
+- Firebase
+
+### AI Integration
+- Groq API
+
+### Tools
+- Git
+- GitHub
+
+---
+
+## How It Works
+
+1. Shop owners add or update stock using voice input.
+2. Inventory data is stored and monitored in real time.
+3. Notifications are triggered automatically when stock reaches minimum levels.
+4. AI analyzes usage trends and suggests reorder quantities.
+5. Owners can instantly send reorder messages to suppliers through WhatsApp.
+
+---
+
+## Project Goals
+
+- Reduce manual inventory tracking
+- Help small shop owners manage stock efficiently
+- Prevent overstocking and understocking
+- Simplify reorder workflows using AI automation
+
